@@ -19,6 +19,6 @@ Demonstrar a aplicação prática de modelagem de dados, normalização, otimiza
 - As consultas otimizadas (`queries.sql`)
 
 ---
-*Certificação de Conclusão e Autenticidade: [https://cs50.harvard.edu/certificates/afebcccc-d10e-45fe-88c5-5787768fa568]*
+*Certificação de Conclusão e Autenticidade: https://cs50.harvard.edu/certificates/afebcccc-d10e-45fe-88c5-5787768fa568]*
 
 > **Aviso de Integridade Acadêmica:** Este repositório tem fins estritamente de portfólio profissional. Se você é um aluno atual do CS50, por favor, respeite a política de honestidade acadêmica do curso e não copie os códigos aqui presentes.
