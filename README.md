@@ -13,17 +13,10 @@ Demonstrar a aplicação prática de modelagem de dados, normalização, otimiza
 
 ## Estrutura do Repositório
 
-### 1. [Projeto Final: Nome do seu Projeto]
+### 1. Tudo Aqui Variedades - DB
 *(Insira aqui uma frase sobre o que é o seu projeto final, ex: Um banco de dados modelado do zero para gerenciar um sistema de logística, focado em alta performance nas consultas de rotas).*
 - O esquema do banco (`schema.sql`)
 - As consultas otimizadas (`queries.sql`)
-
-### 2. Problem Sets (Desafios Semanais)
-Os *psets* exigiram a resolução de problemas reais manipulando dados de filmes (IMDb), sistemas de transporte, gestão de finanças, entre outros.
-* `Pset 1` - Consultas Complexas (Querying)
-* `Pset 2` - Modelagem e Design de Banco (Designing)
-* `Pset 3` - Otimização e Índices (Optimizing)
-*(Continue listando conforme você subiu)*
 
 ---
 *Certificação de Conclusão e Autenticidade: [https://cs50.harvard.edu/certificates/afebcccc-d10e-45fe-88c5-5787768fa568]*
