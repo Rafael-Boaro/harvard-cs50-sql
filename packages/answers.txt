@@ -1,0 +1,10 @@
+At what type of address did the Lost Letter end up?: Residential
+At what address did the Lost Letter end up?: 2 Finnigan Street
+What were the contents of the Lost Letter?: Congratulatory letter
+
+At what type of address did the Devious Delivery end up?: Police Station
+At what address did the Devious Delivery end up?: 7 Humboldt Place
+What were the contents of the Devious Delivery?: Duck debugger
+
+Who has the Forgotten Gift?: Mikel
+What are the contents of the Forgotten Gift?: Flowers
